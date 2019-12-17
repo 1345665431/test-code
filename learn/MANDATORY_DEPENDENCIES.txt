@@ -1,0 +1,3 @@
+npm install scroll-to-element // FOR FOCUSSING ON ELEMENTES WITH ANIMATIONS ---- CASH
+
+npm install react-html-parser // For Parsing the HTML from JSON.
